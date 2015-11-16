@@ -55,17 +55,23 @@ JavaScript es un lenguaje que nos permite hacer funciones tanto en la parte del 
 A continuacion voy poner una captura de algunos ficheros .js, todos los demas se encuentran en la pagina principal del proyecto: [codigo js](https://github.com/javiergama8/Proyecto-IV/tree/master/Codigo/js "codigo js")
 
 
-style.css:
+imagepreloader.js:
 
-![style.css](https://i.gyazo.com/56bfe718df5a8205af5b4daf2f6b1c9c.png)
+![imagepreloader.js](https://i.gyazo.com/83d1a529b5a937a7cbd70824f2eb5a16.png)
 
-layout.css:
+html5.js:
 
-![layout.css](https://i.gyazo.com/c6712cdbeb050e4c4593aa5a20468a83.png)
+![html5.js](https://i.gyazo.com/9e889cc1e18732959b1821f804c8b964.png)
 
-reset.css:
-![reset.css](https://i.gyazo.com/3c9c8e0bc6d813319a38c5e6811ea98c.png)
+login.js:
 
-Voy a poner una captura de la aplicación funcionando:
-![app](https://i.gyazo.com/fd093004550b580ff6efdad9ac85025a.png)
+![login.js](https://i.gyazo.com/d7e03dd47b043c20f419a9b331852110.png)
+
+Como final aqui una captura de la app funcionando:
+
+![web](https://i.gyazo.com/5b55102537e466986a62cbc396c2827e.png)
+
+Y aqui el [enlace](https://4d92e3c4debb26c3d41ede4785392b1af3f3992f.googledrive.com/host/0B8nOgCL0Aof1SmhSWE1VaFNLOWM/Secciones.html "web")
+
+
 
