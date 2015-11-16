@@ -46,3 +46,25 @@ De la aplicación se encargará @javiergama8, el buscador de dominio lo realizar
 ###Licencia
 
 La licencia bajo la que publicamos esta aplicación es GNU GPL v3, esto da permiso a cualquier persona u organización para realizar modificaciones sobre la misma, además de poder realizar copias y distribuir tanto la versión original como la modificada, pudiendo cobrar o no por ello, pero siempre permaneciendo el mismo como software libre.
+
+#Tercer Hito.
+
+**Para esta parte yo me he encargado de hacer los JavaScritp de la web**
+JavaScript es un lenguaje que nos permite hacer funciones tanto en la parte del cliente como la del servidor y con el cual se puede mejorar la interfaz de la pagina web y la interacción con el usuario final.
+
+A continuacion voy poner una captura de algunos ficheros .js, todos los demas se encuentran en la pagina principal del proyecto: ![js](https://github.com/javiergama8/Proyecto-IV/tree/master/Codigo/js)
+
+style.css:
+
+![style.css](https://i.gyazo.com/56bfe718df5a8205af5b4daf2f6b1c9c.png)
+
+layout.css:
+
+![layout.css](https://i.gyazo.com/c6712cdbeb050e4c4593aa5a20468a83.png)
+
+reset.css:
+![reset.css](https://i.gyazo.com/3c9c8e0bc6d813319a38c5e6811ea98c.png)
+
+Voy a poner una captura de la aplicación funcionando:
+![app](https://i.gyazo.com/fd093004550b580ff6efdad9ac85025a.png)
+
