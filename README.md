@@ -52,7 +52,7 @@ La licencia bajo la que publicamos esta aplicación es GNU GPL v3, esto da permi
 **Para esta parte yo me he encargado de hacer los JavaScritp de la web**
 JavaScript es un lenguaje que nos permite hacer funciones tanto en la parte del cliente como la del servidor y con el cual se puede mejorar la interfaz de la pagina web y la interacción con el usuario final.
 
-A continuacion voy poner una captura de algunos ficheros .js, todos los demas se encuentran en la pagina principal del proyecto: [js](https://github.com/javiergama8/Proyecto-IV/tree/master/Codigo/js "js")
+A continuacion voy poner una captura de algunos ficheros .js, todos los demas se encuentran en la pagina principal del proyecto: [js](https://github.com/javiergama8/Proyecto-IV/tree/master/Codigo/js "codigo js")
 
 
 style.css:
