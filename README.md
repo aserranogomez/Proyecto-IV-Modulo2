@@ -53,6 +53,32 @@ La licencia bajo la que publicamos esta aplicación es GNU GPL v3, esto da permi
 
 #Segundo Hito -- Revision 3
 
+##Makefile
+
+Para este hito hemos creado un Makefile, con las siguientes opciones:
+
+clean: se borran los archivos generados. make clean
+
+install: instalamos todo lo necesario make install
+
+test: pasaremos el test previamente creado. make test
+
+run: ponemos en marcha la aplicación. make run
+
+
+![makefile](https://i.gyazo.com/6befc103f435495e9775085c5eee0627.png)
+
+
+##Test
+
+Los test nos permiten comprobar que todas las funciones de nuestros proyectos funcionen a lo largo de su desarrollo.
+
+Para realizar los tests hemos realizado unos test básicos este es de "Admin":
+
+![test_admin](https://i.gyazo.com/aed59cfc06cf5f0dd7e92b66a01ad28b.png)
+
+
+Aquí se encuentran tanto el makefile como el archivo test y también estan en el proyecto global: [archivos](https://github.com/aserranogomez/Proyecto-IV-Modulo2 "archivos")
 
 
 #Tercer Hito.
