@@ -112,7 +112,7 @@ Y aqui el [enlace](https://4d92e3c4debb26c3d41ede4785392b1af3f3992f.googledrive.
 
 Para este hito hemos creado una cuenta en azure, en la cual nos hemos registrado y hemos creado una máquina virtual, con sistema operativo ubuntu server 12.04.
 
-Despues de crear la máquina virtual, por ftp nos conectamos a la maquina y subimos a ella los archivos que hemos desarrollado de nuestra pagina web.
+Despues de crear la máquina virtual, nos conectamos a la máquina e instalamos apache y por ftp subimos a ella los archivos que hemos desarrollado de nuestra pagina web.
 
 A continuación dejo una captura de la web funcionando y un enlace a la misma.
 
